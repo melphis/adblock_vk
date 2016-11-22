@@ -1,0 +1,3 @@
+[Adblock Plus 2.0]
+! Version: 7
+||vk.com/ads_rotate.php
