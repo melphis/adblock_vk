@@ -1,3 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 7
 ||vk.com/ads_rotate.php
+vk.com#?#div.feed_row:-abp-has(div._ads_block_data_w)
+vk.com##.page_block.apps_feedRightAppsBlock.apps_feedRightAppsBlock_single_app
+music.yandex.ru##.teaser-nonmusic.teaser-nonmusic_visible
